@@ -29,4 +29,3 @@ function startSend() {
 function stopSend() {
     clearInterval(timer);
 }
-
