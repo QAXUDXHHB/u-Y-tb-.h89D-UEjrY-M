@@ -23,7 +23,7 @@ function startSend() {
         form.submit();
         document.body.removeChild(form);
 
-    }, 5000); 
+    }, 10); 
 }
 
 function stopSend() {
